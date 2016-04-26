@@ -8,7 +8,7 @@ HELLO FROM JUPITER! our very first post. Testing. Check [documentation](https://
 ### Create a new post
 
 ``` bash
-$ hexo new "My New Post"
+$ hexo nkjlfseojfwaeew "My New Post"
 ```
 
 More info: [Writing](https://hexo.io/docs/writing.html)
