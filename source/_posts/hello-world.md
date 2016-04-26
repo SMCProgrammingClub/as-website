@@ -11,7 +11,7 @@ HELLO FROM JUPITER! our very first post. Testing. Check [documentation](https://
 $ hexo nkjlfseojfwaeew "My New Post"
 ```
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+More infothdgtdgtd: [Writing](https://hexo.io/docs/writing.html)
 
 ### Run server
 
