@@ -5,12 +5,7 @@ menu:
   Blog: /archives/ # can set archive-dir in root config to custom value
   Contact: /contact/
   About: /about/
-<<<<<<< HEAD
-  New Tabs: /tabss/
-   
-=======
 
->>>>>>> 6e8248170f6d414be617af4c20c793b333477b90
 rss: /atom.xml
 
 # Content
