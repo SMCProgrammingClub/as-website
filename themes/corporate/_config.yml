@@ -30,17 +30,13 @@ social:
 color_scheme: turquoise   # options: blue, gray, green, orange, red, turquoise
 favicon: /favicon.ico # path from root of hexo site
 twitter_widget_id: "678830341331820544" # as a string, from https://twitter.com/settings/widgets
-twitter_username: computerlab_ # twitter username without the @
+twitter_username: AS-SMC # twitter username without the @
 default_author: Anonymous
 
 about: Computer Lab is a software development and marketing company based in Brooklyn, New York. <br><br> Computer Lab was founded in 2015, and is focused on so on and so forth.
 phone: (310) 434-4250
 email:
-<<<<<<< Updated upstream
 address_1: ​Student Life Office, Cayton Center
-=======
-address_1: Student Life Office, Cayton Center
->>>>>>> Stashed changes
 address_2: R​oom 202 (above the cafeteria)
 address_3: 1900 Pico Boulevard, Santa Monica, CA 90405
 skype: ptsteadman
