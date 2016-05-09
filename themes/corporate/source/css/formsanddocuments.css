@@ -1,0 +1,46 @@
+#note
+{
+	text-align: justify;
+	font-weight: bold;
+	line-height: 200%;
+	width: 550px;
+	float: right;
+	margin-right: 20px;
+}
+
+#align-colon
+{
+	width: 508px;
+	float: right;
+}
+
+#align-colon2
+{
+	width: 435px;
+	float: right;;
+}
+
+#heading
+{
+	vertical-align: bottom;
+}
+
+#asStudents
+{
+	color: #1074BA;
+}
+
+#col-md-7
+{
+	margin-left: 16px;
+}
+
+#roman-ordered-list
+{
+	list-style-type: upper-roman;
+}
+
+.formstitle
+{
+	text-decoration-line: underline;
+}
