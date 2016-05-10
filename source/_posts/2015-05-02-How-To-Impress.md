@@ -3,7 +3,7 @@ layout: post
 title: Agendas & Minutes
 date: 05-06-2016
 thumbnail: https://s3.amazonaws.com/ptsteadman-images/info2.jpg
-permalink: AS_Agendas
+
 category: Information
 tags: 
 - Information
