@@ -5,6 +5,7 @@ menu:
   Blog: /archives/ # can set archive-dir in root config to custom value
   Contact: /contact/
   About: /about/
+  Benfits: /benfits/
 
 rss: /atom.xml
 
