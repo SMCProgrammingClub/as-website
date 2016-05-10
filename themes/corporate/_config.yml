@@ -6,6 +6,12 @@ menu:
   Blog: /archives/ # can set archive-dir in root config to custom value
   Contact: /contact/
   About: /about/
+  Benefits: /benefits/
+  Clubs: /clubs/
+  Agendas & Minutes: /Agendas/
+  Events: http://www.smc.edu/StudentServices/AssociatedStudents/Lists/Calendar/calendar.aspx
+  
+
 
 
 # Content
