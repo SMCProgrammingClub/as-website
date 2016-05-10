@@ -44,3 +44,13 @@
 {
 	text-decoration-line: underline;
 }
+
+#solid-dot-list
+{
+	list-style-type: disc;
+}
+
+#circle-list-style
+{
+	list-style-type: circle;
+}
