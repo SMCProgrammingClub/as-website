@@ -7,8 +7,9 @@ menu:
   About: /about/
   Benefits: /benefits/
   Clubs: /clubs/
-  Agendas & Minutes: http://www.smc.edu/StudentServices/AssociatedStudents/Pages/Agendas-and-Minutes.aspx
+  Agendas & Minutes: /Agendas/
   Events: http://www.smc.edu/StudentServices/AssociatedStudents/Lists/Calendar/calendar.aspx
+  
 
 
 rss: /atom.xml
