@@ -1,23 +1,13 @@
-#note
-{
-	text-align: justify;
-	font-weight: bold;
-	line-height: 200%;
-	width: 550px;
-	float: right;
-	margin-right: 20px;
-}
-
 #align-colon
 {
-	width: 508px;
+	width: 611px;
 	float: right;
 }
 
 #align-colon2
 {
-	width: 435px;
-	float: right;;
+	width: 544px;
+	float: right;
 }
 
 #heading
@@ -63,4 +53,9 @@ a.form-color
 #registration-packets
 {
 	color: #0724FB;
+}
+
+#right-margin
+{
+	width: 1000px;
 }
