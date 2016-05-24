@@ -3,7 +3,7 @@ menu:
   Home: /
   Projects: /projects/
   Forms & Documents: /formsanddocuments/
-  Blog: /archives/ # can set archive-dir in root config to custom value
+  # Blog: /archives/ # can set archive-dir in root config to custom value
   Contact: /contact/
   About: /about/
   Benefits: /benefits/
